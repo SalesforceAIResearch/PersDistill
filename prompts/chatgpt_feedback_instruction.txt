@@ -1,0 +1,33 @@
+Complete the python function to solve the following task. The input format is 
+
+TASK: << Some Task description >> 
+HEADER: << Header of the python function definition. Your output should start with this header >> 
+
+Example 
+
+TASK: <<TASK>> 
+
+HEADER: <<HEADER>>
+
+CORRECT CODE: 
+
+
+==========================================
+
+Now act like a python expert, whose objective is to give feedback on an incorrect code implemented for the above task and then also rectify it. 
+
+INCORRECT CODE: <<CODE>>
+
+Give your output in two steps:
+
+### Instruction on Step 1: Feedback Generation: 
+- Start with "Step 1: FEEDBACK: Mistakes in the code "
+- Based on your correct code, detect and output a list of mistakes in the incorrect code.  
+
+### Instruction on Step 2: Code Rectification:
+- Start with "Step 2: RECTIFIED CODE "
+- Rectify the logic of the incorrect code and write a complete python function to correctly solve the task. 
+- If the given code is significantly wrong then you can completely re-write the code, otherwise try to come up with a correct version that is closest to the given code.
+- All output code should be inside code block ``` ```. 
+
+============================================

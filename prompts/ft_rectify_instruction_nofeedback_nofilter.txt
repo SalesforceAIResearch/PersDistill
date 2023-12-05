@@ -1,0 +1,11 @@
+Judge whether the below code correctly solves the given task or not and provide a rectified code if necessary. 
+If the code is already correct simply generate """ The code is correct """.  
+
+TASK: 
+<<TASK>>
+<<CODE>>
+
+The rectified code is: 
+
+<<TASK>>
+<<HEADER>>

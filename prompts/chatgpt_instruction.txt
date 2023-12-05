@@ -1,0 +1,12 @@
+Complete the python function to solve the following task. The input format is 
+
+TASK: << Some Task description >> 
+HEADER: << Header of the python function definition. Your output should start with this header >> 
+
+Example 
+
+TASK: <<TASK>> 
+
+HEADER: <<HEADER>>
+
+CORRECT CODE: 

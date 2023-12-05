@@ -1,0 +1,1 @@
+auth_token='{your_hf_auth_key}'

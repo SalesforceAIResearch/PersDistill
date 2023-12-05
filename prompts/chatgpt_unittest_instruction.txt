@@ -1,0 +1,11 @@
+### INSTRUCTION: Generate 5 example inputs, one per line, for unit testing the following python code for the given task. 
+For each example, follow the structure <<function-name>>(argument_1, argument_2, ... , argument_n).
+
+
+TASK:
+<<TASK>>
+
+CODE:
+<<CODE>>
+
+EXAMPLE INPUTS:

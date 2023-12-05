@@ -1,0 +1,34 @@
+Complete the python function to solve the following task. The input format is 
+
+TASK: << Some Task description >> 
+HEADER: << Header of the python function definition. Your output should start with this header >> 
+
+Example 
+
+TASK: 
+<<TASK>> 
+
+HEADER: 
+<<HEADER>>
+
+CORRECT CODE: 
+
+
+==========================================
+
+Now act like a python expert, whose objective is to rectify a given incorrect code for the above task, based on the error obtained in unit testing. 
+
+INCORRECT CODE: 
+<<CODE>> 
+
+ERROR: 
+<<ERROR>>
+
+Instructions for Code Rectification: 
+- Based on the above errors, rectify the logic of the INCORRECT CODE and write a complete python function to correctly solve the task.
+- Try to come up with a correct version that is closest to the INCORRECT CODE.
+- All output code should be inside code block ``` ``` and start with the given header.
+
+RECTIFIED CODE: 
+
+============================================
